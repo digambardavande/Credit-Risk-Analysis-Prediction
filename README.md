@@ -85,8 +85,10 @@ Designed to help financial institutions predict whether a customer is likely to 
 ---
 
 ## ✅ Results Summary
-
-- Accuracy: **XX%** (from classification report)
+## 🔍 Model Performance
+- **Model Used**: Logistic Regression (Statsmodels)
+- **Accuracy**: 84.67%
+- **Evaluation Metrics**: Confusion Matrix, Classification Report (Precision, Recall, F1-score)
 - Strong predictors: Credit utilization, late payments, age
 - Logistic model was interpretable and business-friendly
 
